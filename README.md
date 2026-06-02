@@ -98,8 +98,7 @@ A histogram showing the frequency distribution of wind speed values.
 
 ## 💡 Key Insights
 
--Month With Highest Average Temperature
-
+- Month With Highest Average Temperature
 - Temperature and humidity exhibit a measurable correlation.
 - Wind speed distribution helps identify common weather conditions within the dataset.
 
