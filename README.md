@@ -77,18 +77,22 @@ For each weather condition, calculated:
 ### 1. Monthly Average Temperature Trend
 
 A line chart showing the average temperature for each month.
+!["Linechart"]("images/monthly_avg_trend.png")
 
 ### 2. Temperature vs Humidity Scatter Plot
 
 A scatter plot used to visualize the relationship between temperature and humidity.
+!["Scatterplot]("images/scattertemperature_humidity.png")
 
 ### 3. Average Temperature by Month
 
 A bar chart displaying average monthly temperatures.
+!["BARCHART"]("images/barcharttemperature_month.png")
 
 ### 4. Wind Speed Distribution
 
 A histogram showing the frequency distribution of wind speed values.
+!["HistoGram]("images/windspeed_hist.png")
 
 ---
 
